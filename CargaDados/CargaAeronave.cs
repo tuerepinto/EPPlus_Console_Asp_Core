@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CargaDados.Model
+namespace CargaDados
 {
-    public class JsonAeroportoIn
+    class CargaAeronave
     {
-
     }
 }
